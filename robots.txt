@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /AGENT.md
-
-Sitemap: https://www.yvonnegeorgina.com/sitemap.xml
